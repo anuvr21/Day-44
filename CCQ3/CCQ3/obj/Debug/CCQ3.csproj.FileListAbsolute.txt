@@ -1,0 +1,8 @@
+D:\UST\Day44\CCQ3\CCQ3\bin\Debug\CCQ3.exe.config
+D:\UST\Day44\CCQ3\CCQ3\bin\Debug\CCQ3.exe
+D:\UST\Day44\CCQ3\CCQ3\bin\Debug\CCQ3.pdb
+D:\UST\Day44\CCQ3\CCQ3\obj\Debug\CCQ3.csproj.AssemblyReference.cache
+D:\UST\Day44\CCQ3\CCQ3\obj\Debug\CCQ3.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day44\CCQ3\CCQ3\obj\Debug\CCQ3.csproj.CoreCompileInputs.cache
+D:\UST\Day44\CCQ3\CCQ3\obj\Debug\CCQ3.exe
+D:\UST\Day44\CCQ3\CCQ3\obj\Debug\CCQ3.pdb
